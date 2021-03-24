@@ -28,10 +28,10 @@ Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) e o [Node
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/Daniel-Vinicius/RocketShoes-Web-Ignite.git
+$ git clone https://github.com/gabrielweb2020/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras
 
 # Acesse
-$ cd RocketShoes-Web-Ignite
+$ cd ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras
 
 # Instale as dependências
 $ yarn
@@ -54,4 +54,3 @@ $ yarn dev
 </ul>
 
 Feito com 💜
-por <a href="https://github.com/Daniel-Vinicius" target="_blank">Daniel Vinícius</a>
